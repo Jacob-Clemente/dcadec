@@ -1,4 +1,4 @@
-project: jacob-clemente/dcadec
+project: dcadec
 target: dcadec
 
 cmds:
